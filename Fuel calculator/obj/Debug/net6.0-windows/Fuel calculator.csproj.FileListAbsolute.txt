@@ -1,0 +1,19 @@
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\bin\Debug\net6.0-windows\Fuel calculator.exe
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\bin\Debug\net6.0-windows\Fuel calculator.deps.json
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\bin\Debug\net6.0-windows\Fuel calculator.runtimeconfig.json
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\bin\Debug\net6.0-windows\Fuel calculator.dll
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\bin\Debug\net6.0-windows\Fuel calculator.pdb
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.csproj.AssemblyReference.cache
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel_calculator.Form1.resources
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.csproj.GenerateResource.cache
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.AssemblyInfoInputs.cache
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.AssemblyInfo.cs
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.csproj.CoreCompileInputs.cache
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.dll
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\refint\Fuel calculator.dll
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.pdb
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel calculator.genruntimeconfig.cache
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\ref\Fuel calculator.dll
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel_calculator.Form2.resources
+C:\Users\Cyber\Desktop\Fuel\Fuel calculator\Fuel calculator\obj\Debug\net6.0-windows\Fuel_calculator.Form3.resources
